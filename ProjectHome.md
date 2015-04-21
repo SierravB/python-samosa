@@ -1,0 +1,1 @@
+Uses MVC-ish model to listen for SMSs and respond to them. Currently supports pygooglevoice "API" as backend, but is (hopefully) designed for easy integration of any other SMS service.
